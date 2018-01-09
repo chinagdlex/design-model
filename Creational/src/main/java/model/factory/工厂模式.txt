@@ -1,0 +1,5 @@
+http://blog.csdn.net/jason0539/article/details/23020989
+
+1.简单工厂
+2.工厂方法
+3.抽象工厂
