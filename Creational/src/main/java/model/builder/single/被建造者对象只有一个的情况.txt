@@ -1,0 +1,2 @@
+ * 具体的被建造对象只有一个的话，可以省略抽象的Builder和Director,让ConcreteBuilder自己扮演指导者和建造者双重角色，
+ * 甚至ConcreteBuilder也可以放到Product里面实现。
